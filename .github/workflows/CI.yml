@@ -1,6 +1,6 @@
 ---
 name: CI
-
+runs-on: self-hosted
 on:
   pull_request:
     branches: [master]
